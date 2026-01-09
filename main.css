@@ -65,6 +65,12 @@ body {
     transition: height 1s ease;
 }
 
+footer {
+    background-color: #e15f41;
+    color: #fff;
+    padding: 1em 0;
+}
+
 @media (max-width: 767px) {
     .carousel-item img {
         height: 280px;
